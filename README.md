@@ -61,7 +61,7 @@ plt.axis('off')
 ![op](original.png)
 
 ### Display the result of Opening
-![op](openinng.png)
+![op](opening.png)
 
 ### Display the result of Closing
 ![op](closing.png)
